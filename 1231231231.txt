@@ -1,0 +1,5 @@
+1231
+NAME    : Nakshatra
+MOBILE  : 1231231231
+BALANCE : Rs. 5000
+
